@@ -1,0 +1,6 @@
+{
+  "name": "Registro Scuola",
+  "description": "Finto registro elettronico per le scuole medie con profili separati per docenti e genitori, voti, presenze, note e notifiche push in tempo reale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
